@@ -1,0 +1,7 @@
+2025-01-10 16:51:04.695 [main] INFO  com.fanfan.weblogweb.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_311 on butterfly with PID 39236 (started by lyf in F:\intellij idea\projects\weblog-springboot\weblog-web)
+2025-01-10 16:51:04.696 [main] INFO  com.fanfan.weblogweb.WeblogWebApplicationTests - The following 1 profile is active: "prod"
+2025-01-10 16:51:05.903 [main] INFO  com.fanfan.weblogweb.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 1.636 seconds (JVM running for 2.618)
+2025-01-10 16:51:06.107 [main] INFO  com.fanfan.weblogweb.WeblogWebApplicationTests - 这是一行info级别日志
+2025-01-10 16:51:06.107 [main] WARN  com.fanfan.weblogweb.WeblogWebApplicationTests - 这是一行warn级别日志
+2025-01-10 16:51:06.110 [main] ERROR com.fanfan.weblogweb.WeblogWebApplicationTests - 这是一行error级别日志
+2025-01-10 16:51:06.110 [main] INFO  com.fanfan.weblogweb.WeblogWebApplicationTests - 这是一行带有占位符的日志，作者：fanfan

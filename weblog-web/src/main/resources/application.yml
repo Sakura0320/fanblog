@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    #默认激活dev环境；注意active和dev之间有一个空格
+    active: dev
